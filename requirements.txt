@@ -1,0 +1,14 @@
+En //
+Hi everyone. First of all thank you for viewing my GitHub projects.
+You must download latest version of PyQt5 for the project of work. 
+Good work everyone. :)
+
+pip install PyQt5
+
+
+TR // 
+Herkese Merhaba . Öncelikle Github projelerimi incelediğiniz için teşekkür ederim. 
+Projenin Çalışması için PyQt5'in son versiyonunu indirmelisiniz.
+Herkese iyi çalışmalar. :)
+
+pip install PyQt5
